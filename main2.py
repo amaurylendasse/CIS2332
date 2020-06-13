@@ -1,7 +1,7 @@
 # Amaury Lendasse
 import time
 
-myrange = list(range(3, int(1e5), 2))
+myrange = list(range(3, int(1e4), 2))
 
 start_time = time.time()
 for i in myrange:

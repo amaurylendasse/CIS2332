@@ -2,7 +2,7 @@
 import time
 import math
 
-mymax = int(1e6)
+mymax = int(1e5)
 
 myrange=range(3, mymax+1, 2)
 myset1 = set(myrange)
